@@ -4,6 +4,9 @@ import Two from './03-Props/02-exercise/Two';
 import Three from './03-Props/03-exercise/Three';
 // import Four from './03-Props/04-exercise/Four';
 import Four from './04-Map-List-Key/Four';
+import Counter from './05-Hooks/UseState/Counter';
+import UseStatePractice from './05-Hooks/UseState/UseStatePractice';
+
 
 const App = () => {
   return (
@@ -11,7 +14,9 @@ const App = () => {
 		{/* <One/> */}
 		{/* <Two/> */}
 		{/* <Three/> */}
-		<Four/>
+		{/* <Four/> */}
+		{/* <Counter/> */}
+		<UseStatePractice/>
 	</div>
   )
 }

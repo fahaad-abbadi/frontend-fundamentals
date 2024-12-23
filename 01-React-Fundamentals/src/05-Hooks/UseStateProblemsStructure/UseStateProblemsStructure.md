@@ -1,0 +1,5 @@
+- import useState
+- const [variable, setVariable] = useState(--this field has datatype--)
+- write some randome method
+- in return(), use stuff like, {variable}
+- after that, use the method thing in 'button' or 'input' or whatever
