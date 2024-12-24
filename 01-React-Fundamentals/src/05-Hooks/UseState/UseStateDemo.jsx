@@ -6,7 +6,7 @@ import ObjectState from './ObjectState'
 import NumberState from './NumberState'
 import BooleanState from './BooleanState'
 
-const UseStatePractice = () => {
+const UseStateDemo = () => {
     return (
         <div>
             <Counter/>
@@ -29,4 +29,4 @@ const UseStatePractice = () => {
     )
 }
 
-export default UseStatePractice;
+export default UseStateDemo;
